@@ -5,9 +5,13 @@ python3 folder_humanizer.py
 📁 Enter folder path containing .txt files (or type 'exit' to quit):
 /Users/faheemhossain/Desktop/fahim/texts
 
-# Rose Leaf Disease Classification System
-#### Terminal
-
+# Terminal Using
+#### Open Terminal:
+1. Your project folder:
+```http
+cd /Users/faheemhossain/Desktop/fahim
+ 
+```
 ```http
 Open Terminal:
 └── Deep Learning Models
