@@ -1,0 +1,1 @@
+Overall, InceptionResNetV2 and DenseNet121 emerged as the most effective models for this task, providing high accuracy and efficient learning, while lighter models like EfficientNetB0 and VGG16 demonstrated trade-offs between efficiency and accuracy.
