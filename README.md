@@ -13,6 +13,7 @@ python3 folder_humanizer.py
 ```
 ```
 3. 📁 Enter folder path containing .txt files (or type 'exit' to quit):
+
 ```http
 /Users/faheemhossain/Desktop/fahim/texts
 
